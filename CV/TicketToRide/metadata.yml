@@ -1,0 +1,12 @@
+---
+:id: 101489861
+:submitters:
+- :name: Vayser Kirill
+  :email: kirill.vayser@skoltech.ru
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-11-20 17:28:22.927126000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-20 09:28:22.927126000 Z
+:status: processed
+:score: 84.47
